@@ -53,7 +53,7 @@ Podemos observar que la hibridación de interfaz de usuario, definida por Lev Ma
 
 Snapchat es una aplicación para dispositivos móviles que permite enviar mensajes cortos ("Snaps") de texto, foto o vídeo que desaparecen poco después de haberse visualizado.
   
-La aplicación permite a los usuarios tomar fotografías, grabar y ver videos añadiendo textos y dibujos, enviandolos a una lista de contactos limitada o simplemente descargandolos. Además utiliza la realidad aumentada y la inteligencia artificial para ofrecer un sinfín de opciones con una enorme biblioteca de filtros, con ellas puedes agregarte efectos ademñas de sonidos.
+La aplicación permite a los usuarios tomar fotografías, grabar y ver videos añadiendo textos y dibujos, enviandolos a una lista de contactos limitada o simplemente descargandolos. Además utiliza la realidad aumentada y la inteligencia artificial para ofrecer un sinfín de opciones con una enorme biblioteca de filtros, con ellas puedes agregarte efectos además de sonidos.
   
 Snapchat incorpora medios de hibridación como:
 

@@ -40,6 +40,8 @@ Poniendonos "las gafas de Manovich", Tiktok permite a los usuarios combinar y fu
 - Edición y montaje
 
 Podemos encontrar en tiktok una amplia gama de efectos visuales y filtros que los usuarios pueden aplicar en sus vídeos. En ellos puedes ver tu apariencia modificada, distorsiones, cambios de color, etc. Además que tu mismo puedes crearlos.
+
+Además, nos podemos encontrar que en Tiktok deberemos desplazarnos hacia arriba y hacia abajo para ver nuevos videos en el *feed*. En el diseño podemos ver que la interfaz esta diseñada de manera que el vídeo es el componente central.
   
 Tiktok proporciona herramientas de edición fáciles que permite a los usuarios cortar, unir y ajustar diferentes clips creados. Esto hace que los usuarios sean capaces de crear transiciones suaves, cambios de velocidad de reproducción. La hibridación sería reflejada en los diferentes clips y elementos de vídeo a través de la edición y el montaje que hará al usuario crear contenido más dinámico.
   

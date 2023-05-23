@@ -54,14 +54,22 @@ Snapchat es una aplicación para dispositivos móviles que permite enviar mensaj
   
 La aplicación permite a los usuarios tomar fotografías, grabar y ver videos añadiendo textos y dibujos, enviandolos a una lista de contactos limitada o simplemente descargandolos. Además utiliza la realidad aumentada y la inteligencia artificial para ofrecer un sinfín de opciones con una enorme biblioteca de filtros, con ellas puedes agregarte efectos ademñas de sonidos.
   
-En 2017, Lev Manovich publicó un ensayo sobre como los filtros suponen un cambio en la forma de compartir las experiencias, y de cómo configuramos la realidad
+Snapchat incorpora medios de hibridación como:
 
+- Imágenes y videos
 
+- Realidad aumentada y filtros interactivos 
+
+- Bitmojis y avatares personalizados
+
+Snapchat incorpora medios de hibridación como imágenes y mensajes, realidad aumentada y filtros, mensajería instantánea y multimedia, historias y contenido compartido, y avatares personalizados. Estos elementos híbridos han contribuido a la popularidad de Snapchat como una plataforma de mensajería y redes sociales distintiva.
 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 Esto comenta Ferran Adell en su artículo, http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/.
+  
+* Tiktok, Wikipedia: la enciclopedia libre [consultado: 21/05/2023]. Disponible en: https://es.wikipedia.org/wiki/TikTok
 
 ----
 
